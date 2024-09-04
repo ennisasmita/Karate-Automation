@@ -1,5 +1,12 @@
 package org.example;
 
+import java.util.Scanner;
+
+//class InvalidYearException extends Exception{
+//    public InvalidYearException(String errorMessage) {
+//        super(errorMessage);
+//    }
+//}
 class Vehicle {
     public String brand;
     public String model;
@@ -63,5 +70,13 @@ public class TugasPolyMorphism {
         System.out.println("\nDescription of Motorcycle :");
         motorcycle.displayMotorcycleInfo();
         System.out.println("Motorcycle Sound: " + motorcycle.vehicleSound());
+
+        try{
+            int [] arrcar  = new int [2018];
+            int yearcar =  arrcar[2019];
+
+        }catch(ArrayIndexOutOfBoundsException e){
+            System.out.println("Vehicle was not created "+e.getMessage());
+        }
     }
 }

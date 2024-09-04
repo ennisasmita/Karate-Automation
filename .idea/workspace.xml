@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13903d57-4d8b-4c0e-9769-9ab7a56c32b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TugasPolyMorphism.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PolyMorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PolyMorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TugasPolyMorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TugasPolyMorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
